@@ -1,5 +1,5 @@
-# thinking-projects
-> mostly projects are solutions to problems that exist around us <h3>
+# Thinking-projects
+> Mostly projects are solutions to problems that exist around us <h3>
 
 ### Business Model Canvas
 
